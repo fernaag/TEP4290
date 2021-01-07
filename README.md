@@ -1,7 +1,4 @@
-# TEP4290
-Course content for TEP4290
-
-## TEP4290 Modelling of Built Environment Systems
+# TEP4290 Modelling of Built Environment Systems
 
 ## Spring 2021
 
