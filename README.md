@@ -2,7 +2,7 @@
 
 ## Spring 2021
 
-### Case study: 
+### Case study:
 ### Energy scenarios for national dwelling stocks
 
 
@@ -12,14 +12,14 @@
 ## Teachers
 
 -	Prof. Dr. Daniel B. Müller (responsible teacher)
-daniel.mueller@ntnu.no 
+daniel.mueller@ntnu.no
 -	Prof. Dr. Helge Brattebø
-helge.brattebo@ntnu.no 
+helge.brattebo@ntnu.no
 -	Fernando Aguilar Lopez (TA)
 fernando.a.lopez@ntnu.no  
--	Elijah Tremblay  (SA)
-elijaht@stud.ntnu.no
- 
+-	Marceau Cormery (SA)
+- Nils Dittrich (SA)
+
 ## Learning goals
 
 The students acquire the concepts and skills necessary to develop dynamic MFA models (focus on stock dynamics) with applications for vehicles and buildings using Python. In particular, the students will learn (i) to select appropriate modeling approaches given the questions to be answered (e.g., time-cohort, type-cohort, and time type matrices, or approaches for modeling renovation) (ii), to conduct a literature survey to frame policy relevant questions for the scenario development and the model calibration, (iii) to apply different approaches for parameter estimation with limited data, (iv) to develop different types of policy-relevant scenarios (e.g., open-end, target), (v) to interpret the results in a policy and in a methodological context, (vi) to present and defend the results in short presentations (using rationales based on systems thinking), and (vii) to write a short scientific report.
@@ -34,9 +34,9 @@ The students will learn to describe the transformation of built environment stoc
 
 ## Course structure
 
-The course is based on a combination of lectures, seminars, warm-ups, and a larger exercise. Under supervision of the teachers, the students develop their own Python model, which is first used in a simple exercise of the vehicle stock in China, and subsequently extended for the building stock in selected countries. 
+The course is based on a combination of lectures, seminars, warm-ups, and a larger exercise. Under supervision of the teachers, the students develop their own Python model, which is first used in a simple exercise of the vehicle stock in China, and subsequently extended for the building stock in selected countries.
 
-The students conduct the warm-ups individually, while the exercise is conducted in groups consisting of 2-3 students. 
+The students conduct the warm-ups individually, while the exercise is conducted in groups consisting of 2-3 students.
 
 ## Warm-ups
 
@@ -47,7 +47,7 @@ The warm-ups are short tasks that introduce the students to the basic concepts o
 Exercise one is conducted using case studies of the national dwelling stock in different countries. All of the country case studies have participated in the EU-projects TABULA – Typology Approach for Building Stock Energy Assessment and EPISCOPE – Energy Performance Indicator Tracking Schemes for the Continuous Optimization of Refurbishment Processes in European Housing Stocks (www.episcope.eu). In this project, the partners developed national building typologies representing the residential building stock of their countries. The typologies consist of the following elements:
 •	a classification concept for existing residential buildings according to age, size and further parameters,
 •	a set of example buildings which represent specific building types of the national stocks,
-•	typical energy consumption values for the example buildings, 
+•	typical energy consumption values for the example buildings,
 •	showcase calculations of the possible energy savings,
 •	statistical data for buildings and supply systems.
 Some of the countries have also carried out an energy balance for the total dwelling stock in the country, and these countries are studied in the case study. Since all of the partners used the same methodology for assessing their national dwelling stock, we expect that all of the case studies have similar types of data available (although there might be large differences in detailed data availability). The TABULA project aimed solely at assessing the current status of the building stock, without inclusion of stock dynamics or future scenarios. The purpose of this exercise is to use the data from TABULA combined with additional data from national statistics or other sources, additional information from the national contact persons as well as qualified assumptions and develop a dynamic MFA for scenario development and assessment of policy intervention options related to direct energy use.
@@ -80,4 +80,3 @@ Case study countries for exercise
 •	Serbia
 •	Slovenia
 •	Sweden
- 
